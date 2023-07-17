@@ -1,0 +1,18 @@
+{
+  "name": "External media timestamp",
+  "version": "0.0.1",
+  "author": "XcantloadX",
+  "main": "index.html",
+  "description": "Embed ANY external video from Chrome",
+  "license": "GPL-3",
+  "devDependencies": {
+    "@logseq/libs": "^0.0.1-alpha.29"
+  },
+  "browserslist": [
+    "chrome 80"
+  ],
+  "logseq": {
+    "id": "_edodonfur",
+    "icon": "logseq.png"
+  }
+}
